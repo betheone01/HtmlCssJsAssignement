@@ -1,0 +1,3 @@
+Javascript validation for the login form where 
+1)Username should be greater than 3 and username should not contain any spaces,
+2)Password should match with Confirm password input and password length should be greater than 3 and less than 8 
